@@ -4,7 +4,7 @@
 ## Bio 
 - 🌍 I'm mostly active in **Facebook** , **Linkedin**
 - 🌱 I’m currently learning **React.js**
-- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com) 
+- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com) 
 
 ## Connect with me
 <p align="left">
