@@ -22,3 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=light)](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=light)
 
 [![Tahir Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirahmad01&count_private=true&show_icons=true&theme=light)](https://github-readme-stats.vercel.app/api?username=tahirahmad01&count_private=true&show_icons=true&theme=light)
+
+
+[![Tahir Ahmad's github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01)](https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01)
