@@ -20,5 +20,21 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tahir Ahmad's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+## Overview
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)](https://git.io/streak-stats)
 
-[![Tahir Ahmad's github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01)](https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01)
+<a href="https://codepen.io/tahirahmad">
+  <img align="right" alt="Tahir Ahmad | Codepen" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" />
+</a>
+<a href="https://twitter.com/tahir_ahmad01">
+  <img align="right" alt="Tahir Ahmad | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://instagram.com/tahir_ahmad01">
+  <img align="right" alt="Tahir Ahmad | instagram" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahir_ahmad01" />
+</a>
+<a href="https://linkedin.com/in/tahirahmad01">
+  <img align="right" alt="Tahir Ahmad | Linkedin" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahirahmad01" />
+</a>
+<a href="https://fb.com/tahirahmad01">
+  <img align="right" alt="Tahir Ahmad | Facebook" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahirahmad01" />
+</a>
