@@ -21,7 +21,7 @@
 | ------------- | ------------- |
 
 ## Overview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)
 
 <a href="https://codepen.io/tahirahmad">
   <img align="right" alt="Tahir Ahmad | Codepen" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" />
