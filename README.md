@@ -1,20 +1,44 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" with="20">, I'm Tahir Ahmad (Sani)
-#### I am a web designer & Front-end web developer</h4>
+<h1 align="center">Hi 👋, I'm Tahir Ahmad</h1>
+<h3 align="center">I am a web designer & Front-end web developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahirahmad01&label=Profile%20views&color=059974&style=flat" alt="tahirahmad01" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahirahmad01" alt="tahirahmad01" /></a> </p> -->
+
+- 🔭 I’m currently working on **React**
+
+- 🌱 I’m currently learning **React, Next**
+
+- 👯 I’m looking to collaborate on **qubartech**
+
+<!-- - 👨‍💻 All of my projects are available at [www.abc.com](www.abc.com) -->
+
+- 💬 Ask me about **react**
 
 - 🌍 I'm mostly active in **Facebook** , **Linkedin**
-- 🌱 I’m currently learning **React.js**
-- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com) 
 
-## Connect with me
+- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
+
+- ⚡ Fun fact **I am a music lover.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahirahmad01" height="30" width="40" /></a>
+<a href="https://fb.com/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahirahmad01" height="30" width="40" /></a>
+<a href="https://instagram.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
+</p>
+
+<!-- ## Connect with me
 <p align="left">
   <a href="https://codepen.io/tahirahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" height="30" width="40" /></a>
   <a href="https://twitter.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahirahmad01" height="30" width="40" /></a>
   <a href="https://fb.com/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahirahmad01" height="30" width="40" /></a>
   <a href="https://instagram.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
-</p>
+</p> -->
 
-## Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left" style="margin: 20px 0;">
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
@@ -33,11 +57,13 @@
 	<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg" alt="git" height="30" width="45" /> </a>
 </p>
 
+<!-- ## Overview -->
+<h3 align="left">Overview:</h3>
+
 | <a href="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Tahir Ahmad's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- ## Overview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01&" alt="tahirahmad01" /></p>
 
 <a href="https://codepen.io/tahirahmad">
   <img align="right" alt="Tahir Ahmad | Codepen" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" />
@@ -54,4 +80,3 @@
 <a href="https://fb.com/tahirahmad01">
   <img align="right" alt="Tahir Ahmad | Facebook" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahirahmad01" />
 </a>
-<!--  -->
