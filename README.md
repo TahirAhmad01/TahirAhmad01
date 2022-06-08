@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tahir Ahmad (Sani)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width="20px">, I'm Tahir Ahmad (Sani)
 #### I am a web designer & Front-end web developer</h4>
 
 - 🌍 I'm mostly active in **Facebook** , **Linkedin**
