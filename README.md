@@ -36,8 +36,8 @@
 | <a href="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Tahir Ahmad's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Overview
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)
+<!-- ## Overview
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9)](https://github-readme-streak-stats.herokuapp.com?user=tahirahmad01&date_format=j%2Fn%5B%2FY%5D&border=B9B9B9) -->
 
 <a href="https://codepen.io/tahirahmad">
   <img align="right" alt="Tahir Ahmad | Codepen" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" />
