@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **qubartech**
 
-<!-- - 👨‍💻 All of my projects are available at [www.abc.com](www.abc.com) -->
+- 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
 
 - 💬 Ask me about **react**
 
