@@ -13,7 +13,7 @@
 
 - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, Javascript**
 
 - 🌍 I'm mostly active in **Facebook** , **Linkedin**
 
