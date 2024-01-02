@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React, Next, Redux**
+- 🌱 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
 
 - 👯 I’m looking to collaborate on **qubartech**
 
