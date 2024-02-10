@@ -64,9 +64,9 @@
 | <a href="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Tahir Ahmad's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01&" alt="tahirahmad01" /></p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <a href="https://codepen.io/tahirahmad">
   <img align="right" alt="Tahir Ahmad | Codepen" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" />
