@@ -66,7 +66,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01&" alt="tahirahmad01" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tahirahmad01/tahirahmad01/output/snake.svg" alt="Snake animation" />
+
+###
 
 <a href="https://codepen.io/tahirahmad">
   <img align="right" alt="Tahir Ahmad | Codepen" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" />
