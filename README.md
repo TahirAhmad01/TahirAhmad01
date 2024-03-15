@@ -1,8 +1,5 @@
 <h2 align="left">Hi folks 👋!</h2>
 
-###
-
-<br clear="both">
 
 <h4 align="left">My name is Tahir Ahmad  I'm a full stack developer</h4>
 
@@ -20,7 +17,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
 
@@ -60,7 +57,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="margin-top: 30px">
   <a href="https://fb.com/tahirahmad01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
   </a>
