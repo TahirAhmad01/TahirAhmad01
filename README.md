@@ -1,12 +1,12 @@
 <h2 align="left">Hi folks 👋!</h2>
 
 
-<h4 align="left">My name is Tahir Ahmad  I'm a full stack developer</h4>
+<h3 align="left">My name is Tahir Ahmad. I'm a full stack web developer.</h3>
 
 ###
 
 
-  - 🔭 I’m currently working on **React**
+  - 🔭 I’m currently working on **Javascript, React.js, Next.js, Ruby on Rails**
   -  🌱 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
   - 👯 I’m looking to collaborate on **qubartech**
   - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
@@ -22,42 +22,55 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="26" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="26" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="26" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="26" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="26" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="26" alt="ruby logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=rails" height="26" alt="rails logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ai" height="26" alt="adobeillustrator logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="26" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="26" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="26" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="26" alt="rubymine logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="26" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="26" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="26" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="30" alt="ruby logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge" height="30" alt="rails logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="30" alt="rubymine logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge" height="30" alt="adobeaudition logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="30" alt="intellij logo"  />
 </div>
 
 ###
 
-<div align="left" style="margin-top: 30px">
+###
+
+<br clear="both">
+<div style="margin-top: 30px">
   <a href="https://fb.com/tahirahmad01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
   </a>
@@ -84,11 +97,12 @@
 ###
 
 <br clear="both">
+<br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=890&langs_count=8&theme=dracula&hide_border=true" height="190" alt="languages graph"  />
 </div>
 
 ###
