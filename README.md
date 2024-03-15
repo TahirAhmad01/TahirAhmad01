@@ -8,15 +8,15 @@
 
 ###
 
-<p align="left">
+
   - 🔭 I’m currently working on **React**
   -  🌱 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
   - 👯 I’m looking to collaborate on **qubartech**
   - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
   - 💬 Ask me about **react, Javascript**
-  - 🌍 I'm mostly active in **Facebook** , **Linkedin**<br><br>- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
+  - 🌍 I'm mostly active in **Facebook** , **Linkedin**
+  - 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
   - ⚡ Fun fact **I am a music lover.**
-</p>
 
 ###
 
