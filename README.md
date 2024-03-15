@@ -1,76 +1,106 @@
-<h1 align="center">Hi 👋, I'm Tahir Ahmad</h1>
-<h3 align="center">I am a web designer & Front-end web developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahirahmad01&label=Profile%20views&color=059974&style=flat" alt="tahirahmad01" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahirahmad01" alt="tahirahmad01" /></a> </p> -->
-
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
-
-- 👯 I’m looking to collaborate on **qubartech**
-
-- 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
-
-- 💬 Ask me about **react, Javascript**
-
-- 🌍 I'm mostly active in **Facebook** , **Linkedin**
-
-- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
-
-- ⚡ Fun fact **I am a music lover.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahirahmad01" height="30" width="40" /></a>
-<a href="https://fb.com/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahirahmad01" height="30" width="40" /></a>
-<a href="https://instagram.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
-</p>
-
-<!-- ## Connect with me
-<p align="left">
-  <a href="https://codepen.io/tahirahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tahirahmad" height="30" width="40" /></a>
-  <a href="https://twitter.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahirahmad01" height="30" width="40" /></a>
-  <a href="https://fb.com/tahirahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahirahmad01" height="30" width="40" /></a>
-  <a href="https://instagram.com/tahir_ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahir_ahmad01" height="30" width="40" /></a>
-</p> -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="margin: 20px 0;">
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30" /> </a>
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" /> </a>
-	<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30" /> </a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30" /> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> </a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> </a>
-	<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" alt="react" width="30" height="30" /> </a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30" /> </a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" /> </a>
-	<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="30" height="30" /> </a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>
-	<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg" alt="git" width="30" height="30" /> </a>
-	<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prosany/prosany/main/images/cpanel.svg" alt="git" height="30" width="45" /> </a>
-</p>
-
-<!-- ## Overview -->
-<h3 align="left">Overview:</h3>
-
-| <a href="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Tahir Ahmad's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahmad01&layout=compact&theme=default&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahirahmad01&" alt="tahirahmad01" /></p>
+<h2 align="left">Hi folks 👋!</h2>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tahirahmad01/tahirahmad01/output/snake.svg" alt="Snake animation" />
+<h4 align="left">My name is Tahir Ahmad  I'm a full stack developer</h4>
+
+###
+
+<p align="left">
+  - 🔭 I’m currently working on **React**
+  -  🌱 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
+  - 👯 I’m looking to collaborate on **qubartech**
+  - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
+  - 💬 Ask me about **react, Javascript**
+  - 🌍 I'm mostly active in **Facebook** , **Linkedin**<br><br>- 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
+  - ⚡ Fun fact **I am a music lover.**
+</p>
+
+###
+
+<img align="right" height="200" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="26" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="26" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="26" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="26" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="26" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="26" alt="ruby logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=rails" height="26" alt="rails logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ai" height="26" alt="adobeillustrator logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="26" alt="adobephotoshop logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="26" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="26" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="26" alt="rubymine logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="26" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="26" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="26" alt="firebase logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://fb.com/tahirahmad01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/tahir_ahmad01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/tahirahmad01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/tahir_ahmad01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B8801610881871&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:tahirahmad0234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/925617896913268748" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/6h6xe7go5dhc0k59y19aihwgp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6h6xe7go5dhc0k59y19aihwgp&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
