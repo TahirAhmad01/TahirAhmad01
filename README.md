@@ -1,4 +1,5 @@
 <h2 align="left">Hi folks 👋!</h2>
+<img src="https://i.ibb.co/Mf0qvSf/banner-pc.jpg" alt="stats graph" style="widht:100%"  />
 
 
 <h3 align="left">My name is Tahir Ahmad. I'm a full stack web developer.</h3>
@@ -16,7 +17,7 @@
   - ⚡ Fun fact **I am a music lover.**
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <img align="right" height="150" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
@@ -62,9 +63,8 @@
 ###
 
 ###
-
-<br clear="both">
-<div style="margin-top: 30px">
+<h3 align="left">Connect with me:</h3>
+<div>
   <a href="https://fb.com/tahirahmad01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="facebook logo"  />
   </a>
@@ -90,12 +90,11 @@
 
 ###
 
-<br clear="both">
-<br>
+<h3 align="left">Overview:</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="165" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="165" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=890&langs_count=8&theme=dracula&hide_border=true" height="190" alt="languages graph"  />
 </div>
 
