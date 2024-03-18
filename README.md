@@ -17,7 +17,7 @@
   - ⚡ Fun fact **I am a music lover.**
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="right" height="170" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"  />
+<img align="right" height="190" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" style="margin-top:15px" />
 
 ###
 
