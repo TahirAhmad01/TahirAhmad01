@@ -8,8 +8,9 @@
 
 
   - 🔭 I’m currently working on **Javascript, React.js, Next.js, Ruby on Rails**
-  -  🌱 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
-  - 👯 I’m looking to collaborate on **qubartech**
+  -  🧑🏻‍💻 I’m currently learning **Next.js, Ruby, Ruby on Rails(ROR)**
+  -  💻 Currently employed as a trainee Software Engineer at [Nascenia](https://nascenia.com/) 
+  - 👯 I’m looking to collaborate on [Qubartech](https://qubartech.com/)
   - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
   - 💬 Ask me about **react, Javascript**
   - 🌍 I'm mostly active in **Facebook** , **Linkedin**
