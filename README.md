@@ -12,12 +12,12 @@
 ###
 
 
-  - 🔭 I’m currently working on **Javascript, React.js, Next.js, Ruby on Rails**
-  - 🧑🏻‍💻 I’m currently learning **Programming, Python**
+  - 🔭 I’m currently working on **Javascript, React.js, Next.js, Node.js, Ruby on Rails**
+  - 🧑🏻‍💻 I’m currently learning **Programming, Node.js, Python**
   - 💻 Currently employed as a trainee Software Engineer at [Nascenia](https://nascenia.com/) 
   - 👯 I’m looking to collaborate on [Qubartech](https://qubartech.com/)
   - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
-  - 💬 Ask me about **react, Javascript**
+  - 💬 Ask me about **Programming, React, Javascript, Ruby**
   - 🌍 I'm mostly active in **Facebook** , **Linkedin**
   - 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
   - ⚡ Fun fact **I am a music lover.**
