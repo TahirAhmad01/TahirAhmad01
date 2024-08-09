@@ -21,6 +21,7 @@
   - 🌍 I'm mostly active in **Facebook** , **Linkedin**
   - 📫 How to reach me [Facebook](https://fb.com/TahirAhmad01/), [Linkedin](https://www.linkedin.com/in/tahirahmad01/), [Email](mailto:tahirahmad0234@gmail.com)
   - ⚡ Fun fact **I am a music lover.**
+  - 😺 Favorite animal **Cat**
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" height="180" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" style="margin-top:15px" />
