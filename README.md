@@ -86,11 +86,22 @@
 
 <h3 align="left">Overview:</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=880&langs_count=8&theme=dracula&hide_border=true" height="190" alt="languages graph"  />
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph" style="width: 100%;"/>
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph" style="width: 100%;"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=880&langs_count=8&theme=dracula&hide_border=true" height="190" alt="languages graph" style="width: 100%;"/>
+    </td>
+  </tr>
+</table>
+
 
 ###
 
