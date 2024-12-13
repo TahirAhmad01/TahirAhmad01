@@ -94,8 +94,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tahirahmad01&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=tahirahmad01&theme=darcula&hide_border=true&border_radius=10&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_height=170" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&locale=en&hide_title=false&layout=compact&card_width=880&langs_count=8&theme=dracula&hide_border=true" height="190" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahirahmad01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
