@@ -13,7 +13,7 @@
 
 
   - 🔭 I’m currently working on **Javascript, React.js, Next.js, Node.js, Ruby on Rails**
-  - 🧑🏻‍💻 I’m currently learning **Programming, Node.js, Python**
+  - 🧑🏻‍💻 I’m currently learning **C#, Dot Net**
   - 💻 Currently employed as a **Junior Software Engineer at [Nascenia](https://nascenia.com/)** 
   - 👯 I’m looking to collaborate on [Qubartech](https://qubartech.com/)
   - 👨‍💻 About me on [My Portfolio](https://tahirahmad.vercel.app/)
