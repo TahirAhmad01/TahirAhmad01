@@ -28,7 +28,7 @@
 As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusing on modern frontend technologies. Over the years, I've expanded into robust backend development using <b>Ruby on Rails</b>, <b>Node.js</b>, and <b>REST/GraphQL APIs</b>. I'm passionate about clean architecture, scalable codebases, dynamic user experiences, and contributing to open-source software.
 </p>
 
-- 💼 **Current Position**: ßSoftware Engineer at **[Nascenia](https://nascenia.com/)**
+- 💼 **Current Position**: Software Engineer at **[Nascenia](https://nascenia.com/)**
 - 🚀 **Currently Working On**: JavaScript, React.js, Next.js, Node.js, Ruby on Rails
 - 📚 **Currently Learning**: C# & .NET Ecosystem
 - 🤝 **Collaborating On**: **[Qubartech](https://qubartech.com/)**
