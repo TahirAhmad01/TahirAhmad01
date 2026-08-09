@@ -42,7 +42,7 @@ As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,html,css,nodejs,express,ruby,rails,net,dotnet,mysql,postgres,firebase,supabase,postman,vscode,idea,figma,git,github,gitlab" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,redux,tailwind,bootstrap,materialui,html,css,nodejs,express,ruby,rails,net,dotnet,mysql,postgres,firebase,supabase,postman,vscode,idea,figma,git,github,gitlab" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusi
 
 | Category | Badges / Technologies |
 | :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Ruby` `C#` `HTML5` `CSS3` |
+| **Languages** | `JavaScript` `TypeScript` `Python` `Ruby` `C#` `.NET` `HTML5` `CSS3` |
 | **Frontend** | `React.js` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `Material-UI` |
 | **Backend & APIs** | `Ruby on Rails` `Node.js` `Express.js` `REST APIs` |
 | **Databases & BaaS** | `PostgreSQL` `MySQL` `Supabase` `Firebase` |
@@ -64,6 +64,8 @@ As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusi
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=for-the-badge" alt="Rails" />
@@ -77,7 +79,7 @@ As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusi
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahirahmad01&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=tahirahmad01&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -88,7 +90,7 @@ As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusi
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="Tahir's GitHub Stats" height="180" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=tahirahmad01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="Tahir's GitHub Stats" height="180" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=tahirahmad01&theme=dracula&hide_border=true&fire=38bdf8&ring=38bdf8" alt="Streak Stats" height="180" />
@@ -96,7 +98,7 @@ As a seasoned <b>Full-Stack Web Developer</b>, my journey started in 2020 focusi
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirahmad01&layout=compact&theme=dracula&hide_border=true&card_width=450&title_color=38bdf8" alt="Top Languages" height="160" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=tahirahmad01&layout=compact&theme=dracula&hide_border=true&card_width=450&title_color=38bdf8" alt="Top Languages" height="160" />
       </td>
     </tr>
   </table>
